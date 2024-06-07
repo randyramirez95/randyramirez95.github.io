@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personal Blog
-description: A space where curiosity leads and ideas flourish. <br/> Dive into a world of diverse insights.
+description: A space where curiosity leads and ideas flourish <br/> Dive into a world of diverse insights
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Explore My Creations <br/> A showcase of projects blending imagination and expertise <br/> From software solutions to inventive experiments, see where my ideas take form
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
