@@ -131,4 +131,4 @@ Afterwards, we can perform a bit of cleanup on our files:
 - Delete the folder **setup** within C:\inetpub\wwwroot\osTicket
 - Change permission on **ost-config.php** within C:\inetpub\wwwroot\osTicket\include to read only
 
-Congrats! The osTicket login page should now be accessible at [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php) , where you can use the appropriate credentials to login. Feel free to explore your new osTicket platform, or if you prefer a more guided experience, check out my Post-Install Configuration guide!
+Congrats! The osTicket login page should now be accessible at [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php) , where you can use the appropriate credentials to login. Feel free to explore your new osTicket platform, or if you prefer a more guided experience, check out my [Post-Install Configuration guide!](https://randyramirez95.github.io/project1-2.html)
