@@ -2,7 +2,7 @@
 layout: post
 title: osTicket - Setup, Prerequisites and Installation
 description: 
-image: assets/images/pic11.jpg
+image: assets/images/osticket.jpg
 nav-menu: false
 show_tile: false
 ---

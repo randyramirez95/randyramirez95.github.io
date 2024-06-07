@@ -2,7 +2,7 @@
 layout: post
 title: osTicket - Ticket Lifecycle - Intake Through Resolution
 description: 
-image: assets/images/pic11.jpg
+image: assets/images/osticket.jpg
 nav-menu: false
 show_tile: false
 ---
