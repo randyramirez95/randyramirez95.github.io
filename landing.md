@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Project Showcase: From Ticketing Systems to Cybersecurity</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Dive into my diverse projects, including osTicket implementation, Active Directory installation and setup, and cybersecurity initiatives like Splunk deployment and malware analysis. Each project showcases my ability to tackle complex IT tasks, offering step-by-step guides to streamline your processes and enhance security measures. Explore these tutorials to gain practical insights and improve your IT infrastructure.</p>
 	</div>
 </section>
 
@@ -28,11 +28,17 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>osTicket Installation, Setup, & Implementation</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Explore my comprehensive osTicket project, spanning three detailed tutorials on setup, installation, and implementation. Learn how to configure this powerful open-source ticketing system from scratch, streamline your support processes, and enhance customer service efficiency. Each tutorial breaks down complex steps into manageable tasks, making it easy for anyone to follow along and implement successfully.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="project1-1.html" class="button">Setup and Installation</a></li>
+				</ul>
+				<ul class="actions">
+					<li><a href="project1-2.html" class="button">Post-Install Configuration</a></li>
+				</ul>
+				<ul class="actions">
+					<li><a href="project1-3.html" class="button">Ticket Lifecycle</a></li>
 				</ul>
 			</div>
 		</div>
