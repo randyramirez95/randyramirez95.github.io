@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: Explore My Creations <br/> A showcase of projects blending imagination and expertise <br/> From software solutions to inventive experiments, see where my ideas take form
+description: Explore My Creations <br/> A showcase of projects blending imagination and expertise <br/> From software solutions to inventive experiments
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
